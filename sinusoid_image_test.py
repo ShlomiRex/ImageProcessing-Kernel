@@ -1,4 +1,6 @@
-#https://stackoverflow.com/questions/57534808/generate-an-image-of-a-sloped-sinewave
+# Links:
+# https://stackoverflow.com/questions/57534808/generate-an-image-of-a-sloped-sinewave
+# https://www.youtube.com/watch?v=xhO8iz2qCOE&t=694s
 
 import numpy as np
 import matplotlib.pyplot as plt
